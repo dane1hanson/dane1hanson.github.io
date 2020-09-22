@@ -7,7 +7,7 @@ testing
 </head>
 <body>
 
-<h1>Dane Hanson</h1>
+<h1>Dane Hanson's home page</h1>
 <p>This is a paragraph.</p>
 
 </body>
