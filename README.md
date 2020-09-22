@@ -1,6 +1,4 @@
-# dane1hanson.github.io
-## read this
-testing
+
 <html>
 <head>
 <title>Page Title</title>
